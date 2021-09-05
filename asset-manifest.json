@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Matrix-of-Colorful-Box/static/css/main.a617e044.chunk.css",
+    "main.js": "/Matrix-of-Colorful-Box/static/js/main.6d2a7333.chunk.js",
+    "main.js.map": "/Matrix-of-Colorful-Box/static/js/main.6d2a7333.chunk.js.map",
+    "runtime-main.js": "/Matrix-of-Colorful-Box/static/js/runtime-main.041025c6.js",
+    "runtime-main.js.map": "/Matrix-of-Colorful-Box/static/js/runtime-main.041025c6.js.map",
+    "static/js/2.5738e595.chunk.js": "/Matrix-of-Colorful-Box/static/js/2.5738e595.chunk.js",
+    "static/js/2.5738e595.chunk.js.map": "/Matrix-of-Colorful-Box/static/js/2.5738e595.chunk.js.map",
+    "static/js/3.c089256b.chunk.js": "/Matrix-of-Colorful-Box/static/js/3.c089256b.chunk.js",
+    "static/js/3.c089256b.chunk.js.map": "/Matrix-of-Colorful-Box/static/js/3.c089256b.chunk.js.map",
+    "index.html": "/Matrix-of-Colorful-Box/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Matrix-of-Colorful-Box/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5738e595.chunk.js.LICENSE.txt": "/Matrix-of-Colorful-Box/static/js/2.5738e595.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.041025c6.js",
+    "static/js/2.5738e595.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6d2a7333.chunk.js"
+  ]
+}
